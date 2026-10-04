@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Shashank's Guidance</title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+
+</head>
+
+
+<body>
+
+
+<header>
+
+    <h1>
+        Shashank's Guidance 🎓
+    </h1>
+
+    <p>
+        Explore courses, colleges, entrance exams, and career paths.
+    </p>
+
+</header>
+
+
+
+<main>
+
+
+    <!-- =================================================
+         SEARCH PAGE
+    ================================================== -->
+
+    <section id="searchPage">
+
+
+        <!-- SEARCH -->
+
+        <section class="search-section">
+
+            <h2>
+                Find Your Course
+            </h2>
+
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search college, course, or entrance exam..."
+            >
+
+
+            <select id="locationFilter">
+
+                <option value="">
+                    All Locations
+                </option>
+
+            </select>
+
+
+            <select id="typeFilter">
+
+                <option value="">
+                    All Institution Types
+                </option>
+
+            </select>
+
+
+            <select id="categoryFilter">
+
+                <option value="">
+                    All Categories
+                </option>
+
+            </select>
+
+
+            <select id="degreeFilter">
+
+                <option value="">
+                    All Degrees
+                </option>
+
+            </select>
+
+
+            <select id="entranceFilter">
+
+                <option value="">
+                    All Entrance Exams
+                </option>
+
+            </select>
+
+
+            <br>
+            <br>
+
+
+            <button id="searchButton">
+                Search
+            </button>
+
+
+            <button id="resetButton">
+                Reset
+            </button>
+
+        </section>
+
+
+
+        <!-- RESULTS -->
+
+        <section>
+
+            <h2>
+                Courses & Colleges
+            </h2>
+
+
+            <div id="results">
+
+                <div class="college-card">
+
+                    <h3>
+                        Loading Shashank's Guidance...
+                    </h3>
+
+                    <p>
+                        Loading college database...
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             ASSISTANT
+        ================================================== -->
+
+        <section
+            id="assistantSection"
+            class="assistant-section"
+        >
+
+            <div class="assistant-header">
+
+                <h2>
+                    🎓 Shashank's Guidance Assistant
+                </h2>
+
+                <p>
+                    Ask me about colleges, courses,
+                    locations, degrees, or entrance exams.
+                </p>
+
+            </div>
+
+
+            <!-- CHAT -->
+
+            <div
+                id="assistantChat"
+                class="assistant-chat"
+            >
+
+                <div class="assistant-message">
+
+                    <strong>
+                        Assistant
+                    </strong>
+
+                    <p>
+                        Hi! 👋 I'm the Shashank's Guidance
+                        Assistant.
+                    </p>
+
+                    <p>
+                        Try asking:
+                    </p>
+
+                    <ul>
+
+                        <li>
+                            How many colleges?
+                        </li>
+
+                        <li>
+                            Which colleges accept KCET?
+                        </li>
+
+                        <li>
+                            Show me colleges in Bengaluru.
+                        </li>
+
+                        <li>
+                            Which colleges offer CSE?
+                        </li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+
+            <!-- INPUT -->
+
+            <div class="assistant-input-area">
+
+                <input
+                    type="text"
+                    id="assistantInput"
+                    placeholder="Ask the assistant..."
+                    autocomplete="off"
+                >
+
+
+                <button
+                    id="assistantSendButton"
+                    type="button"
+                >
+                    Send
+                </button>
+
+            </div>
+
+
+            <p class="assistant-note">
+
+                The assistant currently searches the
+                Shashank's Guidance college database.
+
+            </p>
+
+        </section>
+
+
+    </section>
+
+
+
+    <!-- =================================================
+         COLLEGE DETAILS
+    ================================================== -->
+
+    <section
+        id="detailsPage"
+        class="hidden"
+    >
+
+        <button id="backButton">
+            ← Back to Results
+        </button>
+
+
+        <div id="collegeDetails"></div>
+
+    </section>
+
+
+</main>
+
+
+
+<footer>
+
+    <p>
+        Shashank's Guidance © 2026
+    </p>
+
+</footer>
+
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>

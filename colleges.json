@@ -1,0 +1,1825 @@
+{
+  "colleges": [
+    {
+      "name": "Indian Institute of Science",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "Research / Science",
+      "website": "https://www.iisc.ac.in/",
+      "courses": [
+        {
+          "name": "BS (Research)",
+          "degree": "Bachelor of Science",
+          "duration": "4 years",
+          "entrance": [
+            "JEE Advanced",
+            "IAT"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Indian Institute of Management Bangalore",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "Management",
+      "website": "https://www.iimb.ac.in/",
+      "courses": [
+        {
+          "name": "BBA in Digital Business and Entrepreneurship",
+          "degree": "BBA",
+          "duration": "3 years",
+          "entrance": [
+            "IIMB admission process"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "National Institute of Mental Health and Neuro Sciences",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "Medical / Health",
+      "website": "https://www.nimhans.ac.in/",
+      "courses": [
+        {
+          "name": "Health Sciences Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "National Institute of Technology Karnataka",
+      "city": "Surathkal",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "Engineering",
+      "website": "https://www.nitk.ac.in/",
+      "courses": [
+        {
+          "name": "B.Tech",
+          "degree": "B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "JEE Main",
+            "JoSAA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visvesvaraya Technological University",
+      "city": "Belagavi",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / Engineering",
+      "website": "https://vtu.ac.in/",
+      "courses": [
+        {
+          "name": "Engineering and Technology Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK",
+            "JEE Main"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "University of Mysore",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://uni-mysore.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Karnatak University",
+      "city": "Dharwad",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://kud.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Mangalore University",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://mangaloreuniversity.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Bangalore University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://www.bangaloreuniversity.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Kuvempu University",
+      "city": "Shivamogga",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://www.kuvempuuniversity.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Tumkur University",
+      "city": "Tumakuru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://tumkuruniversity.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Davangere University",
+      "city": "Davangere",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://davangereuniversity.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Rani Channamma University",
+      "city": "Belagavi",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://rcub.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Gulbarga University",
+      "city": "Kalaburagi",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://gug.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Karnataka State Law University",
+      "city": "Hubballi",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "Law",
+      "website": "https://kslu.ac.in/",
+      "courses": [
+        {
+          "name": "Law Programs",
+          "degree": "LL.B / Integrated Law",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Karnataka State Akkamahadevi Women's University",
+      "city": "Vijayapura",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://ksawuv.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Bengaluru City University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://www.bcu.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Bengaluru North University",
+      "city": "Kolar",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "University / General",
+      "website": "https://bnu.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Karnataka State Open University",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Public",
+      "category": "Open University",
+      "website": "https://ksoumysuru.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Jain (Deemed-to-be University)",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University / Deemed",
+      "website": "https://www.jainuniversity.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Manipal Academy of Higher Education",
+      "city": "Manipal",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University / Deemed",
+      "website": "https://www.manipal.edu/",
+      "courses": [
+        {
+          "name": "B.Tech",
+          "degree": "B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "MET"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Christ (Deemed to be University)",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University / Deemed",
+      "website": "https://christuniversity.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Alliance University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University",
+      "website": "https://www.alliance.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Presidency University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University",
+      "website": "https://presidencyuniversity.in/",
+      "courses": [
+        {
+          "name": "B.Tech",
+          "degree": "B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "REVA University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University",
+      "website": "https://www.reva.edu.in/",
+      "courses": [
+        {
+          "name": "B.Tech",
+          "degree": "B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dayananda Sagar University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University",
+      "website": "https://www.dsu.edu.in/",
+      "courses": [
+        {
+          "name": "B.Tech",
+          "degree": "B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMR University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University",
+      "website": "https://www.cmr.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Bangalore Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://bit-bangalore.edu.in/",
+      "courses": [
+        {
+          "name": "Computer Science and Engineering",
+          "degree": "B.E.",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R V College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://rvce.edu.in/",
+      "courses": [
+        {
+          "name": "Computer Science and Engineering",
+          "degree": "B.E.",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BMS College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.bmsce.ac.in/",
+      "courses": [
+        {
+          "name": "Computer Science and Engineering",
+          "degree": "B.E.",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "M S Ramaiah Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.msrit.edu/",
+      "courses": [
+        {
+          "name": "Computer Science and Engineering",
+          "degree": "B.E.",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PES University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University / Engineering",
+      "website": "https://www.pes.edu/",
+      "courses": [
+        {
+          "name": "B.Tech",
+          "degree": "B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "PESSAT"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bangalore Institute of Management Studies",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Management",
+      "website": "https://bims.edu.in/",
+      "courses": [
+        {
+          "name": "BBA",
+          "degree": "BBA",
+          "duration": "3 years",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "St Joseph's University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University / General",
+      "website": "https://www.sju.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Mount Carmel College",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "General / Women's",
+      "website": "https://mccblr.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Kristu Jayanti (Deemed to be University)",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University / Deemed",
+      "website": "https://kristujayanti.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "NITTE (Deemed to be University)",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University / Deemed",
+      "website": "https://nitte.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Yenepoya (Deemed to be University)",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "University / Deemed",
+      "website": "https://www.yenepoya.edu.in/",
+      "courses": [
+        {
+          "name": "Health Sciences Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Sri Devaraj Urs Academy of Higher Education and Research",
+      "city": "Kolar",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Medical / Deemed",
+      "website": "https://sdmuhas.ac.in/",
+      "courses": [
+        {
+          "name": "Health Sciences Programs",
+          "degree": "Various",
+          "duration": "Varies",
+          "entrance": []
+        }
+      ]
+    },
+    {
+      "name": "Acharya Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.acharya.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ACS College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.acsce.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akash Institute of Engineering & Technology",
+      "city": "Bengaluru Rural",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.akashiet.com/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APS College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.apsce.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bangalore College of Engineering and Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.bcet.co.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BGS College of Engineering and Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.bgscet.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brindavan College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.brindavancollege.com/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C Byregowda Institute of Technology",
+      "city": "Kolar",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.cbitkolar.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cambridge Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.cambridge.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Channabasaveshwara Institute of Technology",
+      "city": "Tumakuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.cittumkur.org/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Engineering College",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.cityengineeringcollege.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMR Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.cmrit.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HKBK College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.hkbk.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "JSS Academy of Technical Education",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.jssateb.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jyothy Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.jyothyit.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K N S Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.knsit.com/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K S School of Engineering and Management",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.kssem.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kalpataru Institute of Technology",
+      "city": "Tumakuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.kittiptur.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "M S Engineering College",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.msec.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Horizon College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://newhorizoncollegeofengineering.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R R Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.rrit.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rajarajeswari College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.rrce.org/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RNS Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.rnsit.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "S J C Institute of Technology",
+      "city": "Chikkaballapur",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.sjcit.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sahyadri College of Engineering and Management",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.sahyadri.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SJB Institute of Technology",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.sjbit.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "St Joseph Engineering College",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.sjec.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shri Madhwa Vadiraja Institute of Technology and Management",
+      "city": "Udupi",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.sode-edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sri Venkateshwara College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.svcengg.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The National Institute of Engineering",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.nie.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vidyavardhaka College of Engineering",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.vvce.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A J Institute of Engineering and Technology",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.ajiet.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adichunchanagiri Institute of Technology",
+      "city": "Chikkamagaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.aitckm.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ATME College of Engineering",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.atme.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bahubali College of Engineering",
+      "city": "Hassan",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.bce.org.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bearys Institute of Technology",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.bitmangalore.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cauvery Institute of Technology",
+      "city": "Mandya",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://citmandya.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coorg Institute of Technology",
+      "city": "Ponnampet",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.citcoorg.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "G Madegowda Institute of Technology",
+      "city": "Mandya",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://drgmaitmandya.org/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GM Institute of Technology",
+      "city": "Davangere",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.gmit.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jain Institute of Technology",
+      "city": "Davangere",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.jitd.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jawaharlal Nehru New College of Engineering",
+      "city": "Shivamogga",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.jnnce.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KVG College of Engineering",
+      "city": "Sullia",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.kvgengg.com/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karavali Institute of Technology",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.karavaliinstituteoftechnology.com/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maharaja Institute of Technology Thandavapura",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.mitt.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moodlakatte Institute of Technology",
+      "city": "Kundapura",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.mitkundapura.com/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mysore College of Engineering and Management",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.mycem.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Navkis College of Engineering",
+      "city": "Hassan",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.navkisce.com/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "P A College of Engineering",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.pace.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PES Institute of Technology and Management",
+      "city": "Shivamogga",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://pesitm.pestrust.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "S J M Institute of Technology",
+      "city": "Chitradurga",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.sjmit.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SDM Institute of Technology",
+      "city": "Ujire",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://sdmit.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shree Devi Institute of Technology",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.sdit.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Srinivas Institute of Technology",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.sitmng.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vidya Vikas Institute of Engineering and Technology",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://vidyavikasengineering.com/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vivekananda College of Engineering and Technology",
+      "city": "Puttur",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.vcetputtur.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yenepoya Institute of Technology",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://www.yit.edu.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cauvery College of Engineering",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "type": "Private",
+      "category": "Engineering",
+      "website": "https://ccemysuru.ac.in/",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Government Engineering College Hassan",
+      "city": "Hassan",
+      "state": "Karnataka",
+      "type": "Government",
+      "category": "Engineering",
+      "website": "https://gec.karnataka.gov.in/gechassan/public/en",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Government Engineering College Challakere",
+      "city": "Chitradurga",
+      "state": "Karnataka",
+      "type": "Government",
+      "category": "Engineering",
+      "website": "https://gec.karnataka.gov.in/gecchallakere/public/17/contact-us/en",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Government Engineering College Chamarajanagar",
+      "city": "Chamarajanagar",
+      "state": "Karnataka",
+      "type": "Government",
+      "category": "Engineering",
+      "website": "https://gec.karnataka.gov.in/gecchamarajanagar/public/14/contact-us/en",
+      "courses": [
+        {
+          "name": "Undergraduate Engineering Programs",
+          "degree": "B.E./B.Tech",
+          "duration": "4 years",
+          "entrance": [
+            "KCET",
+            "COMEDK"
+          ]
+        }
+      ]
+    }
+  ]
+}
